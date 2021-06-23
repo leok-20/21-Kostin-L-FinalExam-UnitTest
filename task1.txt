@@ -1,0 +1,5 @@
+1. Creating a brand new Junit tester class & creating tons of test methods 1,2,3,etc...
+
+2. In each of those test methods we should expect to test our brand new extensions, along with any previous comparisons that it might give as an output.
+
+3. Implement assertFail for both negative number & greater than 1000, but making sure that one will have IllegalOutOfBounds (greater than 1000) while the other will have IllegalArgumentException (negative nums).
